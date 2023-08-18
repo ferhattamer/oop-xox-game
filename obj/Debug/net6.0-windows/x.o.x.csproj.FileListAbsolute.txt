@@ -1,0 +1,79 @@
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\x.o.x.exe
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\x.o.x.deps.json
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\x.o.x.runtimeconfig.json
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\x.o.x\bin\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\x.o.x\obj\Debug\net6.0-windows\x.o.x.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\x.o.x.exe
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\x.o.x.deps.json
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\x.o.x.runtimeconfig.json
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\bin\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\Yeni klasör\Yeni klasör\x.o.x\obj\Debug\net6.0-windows\x.o.x.genruntimeconfig.cache
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.exe
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.deps.json
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.runtimeconfig.json
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.dll
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\ref\x.o.x.dll
+E:\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.pdb
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.AssemblyReference.cache
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.GeneratedMSBuildEditorConfig.editorconfig
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfoInputs.cache
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfo.cs
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.CoreCompileInputs.cache
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.dll
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\ref\x.o.x.dll
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.pdb
+E:\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.exe
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.deps.json
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.runtimeconfig.json
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.Form1.resources
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.GenerateResource.cache
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.exe
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.deps.json
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.runtimeconfig.json
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\bin\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.Form1.resources
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.GenerateResource.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\ref\x.o.x.dll
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.pdb
+C:\Users\ferhat\Desktop\Bilgisayar Program\1.dönem\projeler\x.o.x\obj\Debug\net6.0-windows\x.o.x.genruntimeconfig.cache
